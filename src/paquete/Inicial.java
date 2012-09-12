@@ -1,5 +1,6 @@
 package paquete;
 
-public class Inicial {
-
+public class Inicial 
+{
+	//TODO
 }
