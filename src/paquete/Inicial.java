@@ -3,5 +3,5 @@ package paquete;
 public class Inicial 
 {
 	//TODO
-	//ModificaciÃ³n hecha por Alfonso
+	//Modificación hecha por Eloy
 }
