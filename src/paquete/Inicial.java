@@ -3,9 +3,9 @@ package paquete;
 public class Inicial 
 {
 	//TODO
-	//Modificaci�n hecha por Eloy
+	//Modificacion hecha por Eloy
 	//Modificado posteriormente por Alfonso
-	//Una �ltima modificaci�n.
+	//Una ultima modificacion.
 	//Otra modificacion diferente
-	//Una �ltima modificaci�n.
+	//Una ultima modificacion.
 }
